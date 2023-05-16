@@ -16,7 +16,7 @@
     <ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>None</ResolveAssemblyWarnOrErrorOnTargetArchitectureMismatch>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="M2Mqtt" Version="4.3.0" />
+    <PackageReference Include="M2Mqtt" Version="4.3.0"/>
   </ItemGroup>
-  <Import Project="NewHMIProject1.references" />
+  <Import Project="NewHMIProject1.references"/>
 </Project>
